@@ -2,7 +2,7 @@
 
 A quick-start example to help you add the Syncfusion Flutter Maps widget to a Flutter app. In this example, you will learn how to set the geo JSON data for the shape layer from a local asset bundle, set a title for the map, and show data labels. You will also learn how to show legends and tooltips and how to add a tile layer and set the initial zoom level.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/maps?title=create-a-flutter-maps-widget-in-10-minutes
 
 Documentation: https://help.syncfusion.com/flutter/maps/getting-started
 
